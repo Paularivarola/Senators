@@ -1,0 +1,51 @@
+body {
+    font-size: 15px;
+}
+
+.imagen {
+    width: 8vw;
+    
+}
+
+.mensaje-icono {
+    width: 2.5vw;
+}
+
+.imagen1 {
+    width: 30vw;   
+}
+
+select {
+    background-color: #03204c93;
+    color: #fff;
+    border:none;
+}
+
+.color {
+    background-color: #03204c93;
+    color: #fff;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+.contenidoPadre {
+    width:100vw;
+}
+
+.contenido {
+    width: 40%;
+}
+
+.footer {
+    height: 18vh;
+}
+
+th {
+        width: 12vw;
+}
+
+.activa {
+    text-decoration: underline;
+}
