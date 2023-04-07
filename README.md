@@ -1,11 +1,11 @@
-## Senators
+## Senators ![LINKEDIN](https://i.postimg.cc/mkdYGcHp/parliament.png) 
 
 ## Trabajo realizado
 Web App desarrollada en 7 días. Es una app pensada para compartir información con los ciudadanos sobre los funcionarios públicos y su partido. 
 <br></br>
 
 ## Demo
-<a href="https://congress-senator.netlify.app/senate.html" target="_blank">congress-senator</a>
+<a href="https://congress-senator.netlify.app/senate.html" target="_blank">https://congress-senator.netlify.app/senate.html</a>
 
 <br></br>
 
