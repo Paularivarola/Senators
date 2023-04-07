@@ -1,7 +1,7 @@
 ## Senators
 
 ## Trabajo realizado
-Web App desarrollada en 7 días. Es una app pensada para poder compartir información con los ciudadanos sobre los funcionarios públicos y su partido. 
+Web App desarrollada en 7 días. Es una app pensada para compartir información con los ciudadanos sobre los funcionarios públicos y su partido. 
 <br></br>
 
 <br></br>
